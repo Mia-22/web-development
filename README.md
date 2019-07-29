@@ -1,2 +1,3 @@
 # web-development
-learning web
+
+Practicing javascript with  simple shopping list
