@@ -1,3 +1,3 @@
 # web-development
 
-Practicing javascript with a simple shoping list
+Practicing javascript with  simple shoping list
